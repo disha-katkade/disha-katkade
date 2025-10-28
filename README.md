@@ -18,8 +18,7 @@
 
 ### 🧬 About Me
 > Passionate about designing intelligent systems that make technology inclusive, ethical, and empowering for all.
-
-- 🧩 Fusing *AI, Blockchain, and Accessibility Tech* into real-world solutions    
+- 🧩 Fusing *AI and Accessibility Tech* into real-world solutions    
  
 
 ---
