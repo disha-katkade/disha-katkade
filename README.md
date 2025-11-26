@@ -11,7 +11,7 @@
 <h2 align="center">💫 Innovating at the Intersection of Intelligence and Impact</h2>
 
 <p align="center">
-  🌌 AI | 🧠 Deep Learning | 🔐 Blockchain | ♿ Accessibility
+  🌌 AI || 🧠 Deep Learning || ♿ Accessibility
 </p>
 
 ---
@@ -30,12 +30,12 @@
 
 ---
 
-
+<!---
 ### 🏆 Achievements
 - 🧠 *Finalist – Inya.ai Buildathon 2025*  
 - 🌍 *Top 10 – BreakoutAI Global Challenge*  
 - 💼 *Machine Learning Intern – Feynn Labs Services*
-
+-->
 ---
 
 <p align="center">
