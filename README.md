@@ -11,7 +11,7 @@
 <h2 align="center">💫 Innovating at the Intersection of Intelligence and Impact</h2>
 
 <p align="center">
-  🌌 AI || 🧠 Deep Learning || ♿ Accessibility
+  🌌 AI || 🧠 Deep Learning || 🔗 Multimodal Intelligence || ✨ GenAI
 </p>
 
 ---
