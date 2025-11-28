@@ -25,7 +25,7 @@
 
 ### ⚙ My Tech Universe
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch,opencv,html,css,js,tailwind,roboflow,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch,opencv,html,css,js,tailwind,git&perline=9" />
 </p>
 
 ---
