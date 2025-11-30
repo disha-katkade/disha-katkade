@@ -23,7 +23,7 @@
 
 ---
 
-### ⚙ My Tech Universe
+### ⚙ Tech Universe
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch,opencv,html,css,js,tailwind,docker,git&perline=9" />
 </p>
@@ -42,7 +42,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7EF&height=2&section=footer"/>
 </p>
 
-### 📊 My GitHub Pulse
+### 📊 GitHub Pulse
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=disha-katkade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7EF&icon_color=00F7EF" height="160">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=disha-katkade&theme=tokyonight&hide_border=true&ring=00F7EF&fire=00F7EF" height="160">
