@@ -1,0 +1,5 @@
+"homepage": "https://disha-katkade.github.io/neon-banner-live/",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
