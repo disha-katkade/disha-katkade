@@ -43,15 +43,26 @@
 </p>
 
 ### 📊 GitHub Pulse
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=disha-katkade&show_icons=true&theme=tokyonight&hide_border=true" height="160">
- <img src="https://streak-stats.demolab.com?user=disha-katkade&theme=tokyonight&hide_border=true" height="160">
-
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=disha-katkade&layout=compact&theme=tokyonight&hide_border=true" height="150">
+  <!-- GitHub Profile Stats -->
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=disha-katkade&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=C9F2FF" 
+    height="160"
+  >
+<img 
+    src="https://github-readme-streak-stats-eight.vercel.app?user=disha-katkade&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" 
+    height="160"
+  >
 </p>
+<p align="center">
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=disha-katkade&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=C9F2FF" 
+    height="150"
+  >
+</p>
+
 
 
 ### 🌐 Connect With Me
