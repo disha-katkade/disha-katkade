@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<disha-katkade>/<disha-katkade>/assets/neon_banner.png" width="100%">
+  <img src="https://github.com/disha-katkade/disha-katkade/blob/main/assets/neon_banner.png" width="100%">
 </p>
 
 
