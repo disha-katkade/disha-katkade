@@ -44,15 +44,15 @@
 
 ### 📊 GitHub Pulse
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=disha-katkade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7EF&icon_color=00F7EF" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=disha-katkade&theme=tokyonight&hide_border=true&ring=00F7EF&fire=00F7EF" height="160">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=disha-katkade&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+ <img src="https://streak-stats.demolab.com?user=disha-katkade&theme=tokyonight&hide_border=true" height="160">
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disha-katkade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7EF" height="150">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=disha-katkade&layout=compact&theme=tokyonight&hide_border=true" height="150">
 </p>
 
----
 
 ### 🌐 Connect With Me
 <p align="center">
