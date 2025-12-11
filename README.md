@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/disha-katkade/disha-katkade/blob/main/assets/neon_banner.png" width="100%">
-</p>
+</p> -->
 
 
 <!-- Animated Typing Header -->
