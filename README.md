@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<disha-katkade>/<disha-katkade>/assets/neon-banner.png" width="100%">
+</p>
+
+
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F7EF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Disha+Katkade+👩‍💻;AI+Developer+%7C+DL+Engineer+%7C+Innovator✨+;Building+Tech+That+Empowers+People+🌍" alt="Typing Animation" />
