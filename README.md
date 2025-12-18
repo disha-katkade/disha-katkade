@@ -37,6 +37,7 @@
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
   <img src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
   <img src="https://img.icons8.com/color/48/graph.png" alt="Plot"/>
+  <img src="https://img.icons8.com/color/48/aws.png" alt="AWS"/>
   
 </p>
 
