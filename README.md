@@ -33,6 +33,13 @@
   <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch,opencv,html,css,js,tailwind,docker,git&perline=9"/> 
 </p>
 
+<p align="left">
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+  
+</p>
+
+
 ---
 
 <!---
