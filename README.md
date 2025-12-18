@@ -29,11 +29,17 @@
 ---
 
 ### ⚙ Tech Universe
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch,opencv,html,css,js,tailwind,docker,scikit-learn,git&perline=9"/> 
-</p> -->
-
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch,opencv,sklearn,html,css,js,tailwind,flask,mysql,docker,aws,git,github,vscode&perline=9"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
+</p>
+
+</p>
+
+<!-- <p align="center">
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV"/>
@@ -51,7 +57,7 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/github.png" alt="Github"/>
   
-</p>
+</p> -->
 
 
 ---
