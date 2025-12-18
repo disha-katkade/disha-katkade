@@ -30,7 +30,7 @@
 
 ### ⚙ Tech Universe
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch,opencv,html,css,js,tailwind,docker,numpy,pandas,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch,opencv,html,css,js,tailwind,docker,git&perline=9" />
 </p>
 
 ---
