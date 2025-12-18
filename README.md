@@ -29,15 +29,27 @@
 ---
 
 ### ⚙ Tech Universe
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,tensorflow,pytorch,opencv,html,css,js,tailwind,docker,scikit-learn,git&perline=9"/> 
-</p>
+</p> -->
 
 <p align="center">
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV"/>
+  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch"/>
+  <img src="https://img.icons8.com/color/48/scikit-learn.png" alt="Scikit-Learn"/>
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
   <img src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
-  <img src="https://img.icons8.com/color/48/graph.png" alt="Plot"/>
-  <img src="https://img.icons8.com/color/48/aws.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" alt="Matplotlib"/>
+  <img src="https://img.icons8.com/color/48/statistics.png" alt="Seaborn"/>
+  <img src="https://img.icons8.com/color/48/flask.png" alt="Flask"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="Github"/>
   
 </p>
 
